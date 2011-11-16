@@ -1,0 +1,5 @@
+
+This is a tic-tac-toe playing bot for CSE415 that supports a board of width X and height Y, and allows for K-in-a-row gameplay. I think my implementation might use MinimaxAB, but I'm not sure how well it does so.
+
+
+Wins 40/100 games against distracto.
